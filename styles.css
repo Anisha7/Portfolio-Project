@@ -1,0 +1,45 @@
+.header{
+  display: flex;
+}
+.names{
+  float: right;
+  padding: 20px;
+}
+
+.logo{
+  padding: 20px;
+}
+
+.projects{
+  padding: 20px;
+}
+
+.title2{
+  color: #7d97ad;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 22px;
+  letter-spacing: 5px;
+}
+
+h1{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 32px;
+}
+
+h2{
+  font-size: 18px;
+}
+
+figure{
+  margin: 50px;
+}
+
+.cd-md-4{
+  padding-right: 20px;
+}
+
+.bannerImage, .projectImages {
+  max-width: 100%;
+  height: auto;
+  width: auto\9;
+}
