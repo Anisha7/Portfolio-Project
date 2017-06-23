@@ -1,40 +1,41 @@
-.header{
+.header {
   display: flex;
 }
-.names{
+
+.names {
   float: right;
   padding: 20px;
 }
 
-.logo{
+.logo {
   padding: 20px;
 }
 
-.projects{
+.projects {
   padding: 20px;
 }
 
-.title2{
+.title2 {
   color: #7d97ad;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 22px;
   letter-spacing: 5px;
 }
 
-h1{
+h1 {
   font-family: 'Quicksand', sans-serif;
   font-size: 32px;
 }
 
-h2{
+h2 {
   font-size: 18px;
 }
 
-figure{
+figure {
   margin: 50px;
 }
 
-.cd-md-4{
+.cd-md-4 {
   padding-right: 20px;
 }
 
