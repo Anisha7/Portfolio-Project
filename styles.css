@@ -45,9 +45,13 @@ figure {
   width: auto;
 }
 
+.bannerImage {
+  width: 1480px; 
+  height: 800px
+}
 /* container styling */
 
-.grid-container{
+.container{
         width: 100%; 
         max-width: 1200px;      
     }
@@ -87,4 +91,11 @@ figure {
      margin: 0;
      text-align: center; 
      color: black; 
+    }
+
+    @media only screen and (max-width: 550px) {
+      .col-1, .col-2, .col-3 { 
+          margin: 1% 0 1% 0;
+          width: 100%;
+          }
     }
