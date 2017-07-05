@@ -68,8 +68,12 @@ figure {
         clear:both;
     }
 
+.row{
+  display: flex;
+}
+
     [class*='col-'] {
-        float: left;
+       /* float: left; */
         min-height: 1px; 
         width: 30%; 
         /*-- our gutter -- */
